@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "kategorie": "Zellbiologie",
+    "frage": "Was ist die Funktion des Zellkerns?",
+    "antwort": "Der Zellkern enthält die DNA und steuert alle Zellfunktionen.",
+    "bild_url": "/assets/zellkern.png",
+    "bild_beschreibung": "Darstellung einer Zelle"
+  },
+  {
+    "id": 2,
+    "kategorie": "Zellbiologie",
+    "frage": "Welche Aufgabe hat das Mitochondrium?",
+    "antwort": "Das Mitochondrium ist das Kraftwerk der Zelle. Es erzeugt Energie (ATP).",
+    "bild_url": "/assets/mithochondrium.png",
+    "bild_beschreibung": "Darstellung eines Mitochondriums"
+  },
+  {
+    "id": 3,
+    "kategorie": "Zellbiologie",
+    "frage": "Was unterscheidet Pflanzen- von Tierzellen?",
+    "antwort": "Pflanzenzellen haben eine Zellwand, Chloroplasten und eine grosse Vakuole.",
+    "bild_url": "/assets/tier_pflanz.png",
+    "bild_beschreibung": "Darstellung Tier/Pflanzenzellen"
+  },
+  {
+    "id": 4,
+    "kategorie": "Genetik",
+    "frage": "Was ist DNA und wo befindet sie sich?",
+    "antwort": "DNA ist der Träger der Erbinformation. Sie befindet sich im Zellkern.",
+    "bild_url": "/assets/dna.png",
+    "bild_beschreibung": "Darstellung der DNA"
+  },
+  {
+    "id": 5,
+    "kategorie": "Genetik",
+    "frage": "Wie viele Chromosomen hat der Mensch?",
+    "antwort": "Eine menschliche Körperzelle hat 46 Chromosomen (23 Paare).",
+    "bild_url": "/assets/chromosom.png",
+    "bild_beschreibung": "Darstellung der Chromosomen"
+  },
+  {
+    "id": 6,
+    "kategorie": "Genetik",
+    "frage": "Was ist ein Gen?",
+    "antwort": "Ein Gen ist ein DNA-Abschnitt, der die Information für ein Protein enthält.",
+    "bild_url": "/assets/gen.png",
+    "bild_beschreibung": "Darstellung der Gen"
+  },
+  {
+    "id": 7,
+    "kategorie": "Humanbiologie",
+    "frage": "Was machen rote Blutkörperchen?",
+    "antwort": "Sie transportieren Sauerstoff von der Lunge zu den Körperzellen.",
+    "bild_url": "/assets/rote.png",
+    "bild_beschreibung": "Darstellung rote Blutkörperchen"
+  },
+  {
+    "id": 8,
+    "kategorie": "Humanbiologie",
+    "frage": "Wie funktioniert das Herz?",
+    "antwort": "Das Herz pumpt Blut durch den Körper: zur Lunge und zu allen Organen.",
+    "bild_url": "/assets/herz.png",
+    "bild_beschreibung": "Darstellung des Herzens"
+  },
+  {
+    "id": 9,
+    "kategorie": "Oekologie",
+    "frage": "Was ist eine Nahrungskette?",
+    "antwort": "Eine Nahrungskette zeigt, wer wen frisst. Z.B.: Gras - Heuschrecke - Frosch.",
+    "bild_url": "/assets/nahrung.png",
+    "bild_beschreibung": "Darstellung eines Ökosystems"
+  },
+  {
+    "id": 10,
+    "kategorie": "Oekologie",
+    "frage": "Was ist Photosynthese?",
+    "antwort": "Pflanzen nutzen Sonnenlicht, um aus CO2 und Wasser Zucker und Sauerstoff zu machen.",
+    "bild_url": "/assets/photosyn.png",
+    "bild_beschreibung": "Darstellung Photosynthese"
+  }
+]
